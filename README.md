@@ -9,4 +9,4 @@ I'm a Software Engineer and iOS Developer.
 
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=skhillon&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skhillon&hide=html&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skhillon&hide=html&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
